@@ -1,6 +1,6 @@
 # Gitpod Community Discord Bot
 
-This is a fork of the Gitpod Community Discord Bot that I'm attempting to strip down and modify to become a template.
+This is a fork of the [Gitpod Community Discord Bot](https://github.com/gitpod-io/optimus) that I'm attempting to strip down and modify to become a template.
 
 This repo contains the code that runs the Gitpod Community Discord Bot.
 
