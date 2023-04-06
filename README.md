@@ -1,5 +1,7 @@
 # Gitpod Community Discord Bot
 
+This is a fork of the Gitpod Community Discord Bot that I'm attempting to strip down and modify to become a template.
+
 This repo contains the code that runs the Gitpod Community Discord Bot.
 
 Community contribuitions are welcome! 🧡 Please create an issue and open a Gitpod workspace from that context.
