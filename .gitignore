@@ -1,0 +1,8 @@
+/target/
+Cargo.lock
+/bot.sqlite*
+/data.ms
+.env
+**/*.rs.bk
+.idea/
+.vs/
